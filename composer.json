@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^8.9",
+        "illuminate/validation": "^8.9"
+    }
+}
